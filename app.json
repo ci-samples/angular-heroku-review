@@ -1,0 +1,15 @@
+{
+  "name": "angular-heroku-review",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
