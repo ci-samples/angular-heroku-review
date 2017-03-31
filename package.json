@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "heroku-postbuild": "yarn install --dev && npm run build -- --prod --aot"
+    "heroku-postbuild": "npm run build -- --prod --aot"
   },
   "private": true,
   "dependencies": {
